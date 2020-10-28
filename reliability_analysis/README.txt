@@ -3,7 +3,7 @@ Created on 2020-09-29 by Jeffrey R. Stevens (jeffrey.r.stevens@gmail.com)
 
 **********************************************************
 If you use the data, please cite the following:
-Arce, W. & Stevens, J.R. (2020). Developing a computer-controlled treat dispenser for canine operant conditioning. Journal of Open Hardware.
+Arce, W., & Stevens, J. R. (2020). Developing a computer-controlled treat dispenser for canine operant conditioning. Journal of Open Hardware, 4(1), 6. https://doi.org/10.5334/joh.27
 **********************************************************
 
 Summary: We tested two treat dispensers 100 times each with 10 tests of increasing dispensing targets from 1 to 10 treats. Each row of the data file gives the expected and actual number of treats dispensed for a single trial.

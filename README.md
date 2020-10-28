@@ -22,3 +22,6 @@ Under the following terms:
 ### Contact
 
 This project was conducted by the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu) and funded by the [National Science Foundation](https://nsf.gov). For questions, please contact the developer Walker Arce (warce@unomaha.edu) or the principal investigator Jeffrey R. Stevens (jeffrey.r.stevens@gmail.com).
+
+### Citation
+Arce, W., & Stevens, J. R. (2020). Developing a computer-controlled treat dispenser for canine operant conditioning. _Journal of Open Hardware_, 4(1), 6. https://doi.org/10.5334/joh.27
