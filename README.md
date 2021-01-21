@@ -30,4 +30,5 @@ Arce, W., & Stevens, J. R. (2020). Developing a computer-controlled treat dispen
 
 ### Project Mentions
 [Hackaday](https://hackaday.com/2020/10/31/using-open-source-to-train-your-dog/)
+
 [Open Neuroscience](https://open-neuroscience.com/post/computer_controlled_dog_treat_dispenser/)
