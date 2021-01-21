@@ -27,3 +27,7 @@ This project was conducted by the [Canine Cognition and Human Interaction Lab](h
 
 ### Citation
 Arce, W., & Stevens, J. R. (2020). Developing a computer-controlled treat dispenser for canine operant conditioning. _Journal of Open Hardware_, 4(1), 6. https://doi.org/10.5334/joh.27
+
+### Project Mentions
+[Hackaday](https://hackaday.com/2020/10/31/using-open-source-to-train-your-dog/)
+[Open Neuroscience](https://open-neuroscience.com/post/computer_controlled_dog_treat_dispenser/)
